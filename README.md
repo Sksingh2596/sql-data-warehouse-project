@@ -48,7 +48,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi there! I'm **Sumit**, **📊 Data Analyst** | Open to work | Passionate about turning data into actionable insights for any industry.
-![Image](https://github.com/user-attachments/assets/eaefbbe0-220e-47dd-af35-dbeaea27c6e9)
-www.linkedin.com/in/sumit-64848222a
+**Linked In** : www.linkedin.com/in/sumit-64848222a
 
 
