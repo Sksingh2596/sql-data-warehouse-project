@@ -5,8 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
-![Data Architecture](Users\sksin\OneDrive\Desktop\data_architecture.png)
-"C:\Users\sksin\OneDrive\Desktop\data_architecture.png"
+![Image](https://github.com/user-attachments/assets/1f80e419-ae35-4066-bf95-3f3c1a5187e1)
 ---
 
 ## 🚀 Project Requirements
